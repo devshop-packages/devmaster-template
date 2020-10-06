@@ -2,6 +2,7 @@
 
 # Commit composer.lock for much faster installs for now.
 #/composer.lock
+/bin/
 /vendor/
 /web/sites/all/drush/
 /web/sites/all/modules/contrib/
